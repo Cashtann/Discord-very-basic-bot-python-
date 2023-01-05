@@ -3,4 +3,4 @@ Discord very simple bot, if you just download the code it won't work, you have t
 
 I hope you Enjoy!
 
-(Remember to install all neccesary libraries!)
+(Remember to install all necessary libraries!)
